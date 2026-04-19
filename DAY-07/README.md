@@ -13,6 +13,8 @@
 | `/root` | Root user home directory |
 | `/bin` | Contains Essential Commands for all users — `ls`, `cp`, `apt`, `chgrp`, `chown`, `chmod` |
 | `/sbin` | System Binaries — Used by System Administrator → `cron`, `init`, `ip` |
+| `/dev` | Represents Hardware/Devices as files — used for disk management , checking attached volumes |
+| `/mnt` | Mount Directory — used for mounting extra EBS volumes |
 | `/tmp` | Temporary files |
 
 ## 🛠️ Hands-on Task
