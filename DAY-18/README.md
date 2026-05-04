@@ -1,4 +1,4 @@
-# Day 18 — Functions & Intermediate Concepts
+# Day 18 — Shell Scripting : Functions & Intermediate Concepts
 This Document shows a Hands-on practice covering
 - Functions
 - local & global variables in functions
