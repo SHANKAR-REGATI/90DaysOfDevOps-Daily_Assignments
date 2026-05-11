@@ -1,0 +1,88 @@
+2026-05-11 08:00:01 INFO Application startup initiated
+2026-05-11 08:00:03 INFO Database connection established
+2026-05-11 08:00:05 WARNING CPU usage above 85%
+2026-05-11 08:00:07 ERROR Connection timeout to payment-service
+2026-05-11 08:00:09 ERROR Connection timeout to payment-service
+2026-05-11 08:00:11 ERROR Connection timeout to payment-service
+2026-05-11 08:00:13 ERROR Connection timeout to payment-service
+2026-05-11 08:00:15 ERROR Connection timeout to payment-service
+2026-05-11 08:00:17 ERROR Connection timeout to payment-service
+2026-05-11 08:00:19 ERROR Connection timeout to payment-service
+2026-05-11 08:00:21 ERROR Connection timeout to payment-service
+2026-05-11 08:00:23 ERROR Connection timeout to payment-service
+2026-05-11 08:00:25 ERROR Connection timeout to payment-service
+2026-05-11 08:00:27 ERROR Connection timeout to payment-service
+2026-05-11 08:00:29 ERROR Connection timeout to payment-service
+2026-05-11 08:00:31 ERROR Connection timeout to payment-service
+2026-05-11 08:00:33 ERROR Connection timeout to payment-service
+2026-05-11 08:00:35 ERROR Connection timeout to payment-service
+2026-05-11 08:00:37 ERROR Connection timeout to payment-service
+2026-05-11 08:00:39 ERROR Connection timeout to payment-service
+2026-05-11 08:00:41 ERROR Connection timeout to payment-service
+2026-05-11 08:00:43 ERROR Connection timeout to payment-service
+2026-05-11 08:00:45 ERROR Connection timeout to payment-service
+2026-05-11 08:00:47 ERROR Connection timeout to payment-service
+2026-05-11 08:00:49 ERROR Connection timeout to payment-service
+2026-05-11 08:00:51 ERROR Connection timeout to payment-service
+2026-05-11 08:00:53 ERROR Connection timeout to payment-service
+2026-05-11 08:00:55 ERROR Connection timeout to payment-service
+2026-05-11 08:00:57 INFO Payment-service recovered
+2026-05-11 08:00:59 WARNING Disk usage above 80%
+2026-05-11 08:01:01 ERROR Database query timeout
+2026-05-11 08:01:03 ERROR Database query timeout
+2026-05-11 08:01:05 ERROR Database query timeout
+2026-05-11 08:01:07 ERROR Database query timeout
+2026-05-11 08:01:09 ERROR Database query timeout
+2026-05-11 08:01:11 ERROR Database query timeout
+2026-05-11 08:01:13 ERROR Database query timeout
+2026-05-11 08:01:15 ERROR Database query timeout
+2026-05-11 08:01:17 ERROR Database query timeout
+2026-05-11 08:01:19 ERROR Database query timeout
+2026-05-11 08:01:21 ERROR Database query timeout
+2026-05-11 08:01:23 ERROR Database query timeout
+2026-05-11 08:01:25 ERROR Database query timeout
+2026-05-11 08:01:27 ERROR Database query timeout
+2026-05-11 08:01:29 ERROR Database query timeout
+2026-05-11 08:01:31 ERROR Database query timeout
+2026-05-11 08:01:33 ERROR Database query timeout
+2026-05-11 08:01:35 ERROR Database query timeout
+2026-05-11 08:01:37 ERROR Database query timeout
+2026-05-11 08:01:39 INFO Database recovered
+2026-05-11 08:01:41 WARNING Network latency high
+2026-05-11 08:01:43 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:45 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:47 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:49 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:51 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:53 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:55 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:57 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:01:59 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:02:01 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:02:03 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:02:05 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:02:07 ERROR HTTP 500 Internal Server Error
+2026-05-11 08:02:09 INFO API service restored
+2026-05-11 08:02:11 WARNING Container memory nearing limit
+2026-05-11 08:02:13 ERROR Permission denied
+2026-05-11 08:02:15 ERROR Permission denied
+2026-05-11 08:02:17 ERROR Permission denied
+2026-05-11 08:02:19 ERROR Permission denied
+2026-05-11 08:02:21 ERROR Permission denied
+2026-05-11 08:02:23 ERROR Permission denied
+2026-05-11 08:02:25 ERROR Permission denied
+2026-05-11 08:02:27 ERROR Permission denied
+2026-05-11 08:02:29 ERROR Permission denied
+2026-05-11 08:02:31 INFO File permissions corrected
+2026-05-11 08:02:33 WARNING Pod restart count increasing
+2026-05-11 08:02:35 CRITICAL Primary database unreachable
+2026-05-11 08:02:37 CRITICAL Primary database unreachable
+2026-05-11 08:02:39 CRITICAL Primary database unreachable
+2026-05-11 08:02:41 CRITICAL Primary database unreachable
+2026-05-11 08:02:43 CRITICAL Primary database unreachable
+2026-05-11 08:02:45 INFO Failover initiated
+2026-05-11 08:02:47 INFO Secondary database active
+2026-05-11 08:02:49 WARNING SSL certificate expiring soon
+2026-05-11 08:02:51 INFO Monitoring service healthy
+2026-05-11 08:02:53 WARNING High concurrent connections detected
+2026-05-11 08:02:55 INFO Daily operations completed
